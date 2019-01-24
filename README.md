@@ -1,8 +1,8 @@
 # Tablet Based Attendance
 
 ## Team RISKK: Members
-Kevin Le
-Seth Tomy
-Kalil Garrett
-Roger Williams
+Kevin Le\n
+Seth Tomy\n
+Kalil Garrett\n
+Roger Williams\n
 Isaac Avila
